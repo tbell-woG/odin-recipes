@@ -1,0 +1,44 @@
+.container {
+    border: 5px solid white;
+}
+
+img {
+    /* height: 400px;
+    width: 450px; */
+    padding: 5%;
+    margin-top: 0px;
+}
+h1 {
+    line-height:10px;
+}
+
+body, h1 {
+    background-color: rgb(235, 241, 199);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: purple;
+    font-size: 50px;
+    text-align: center;
+    padding: 70px;
+}
+h2 {
+    font-size: 25px;
+}
+h3 {
+    font-size: 30px;
+    text-align: left;
+    line-height:10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul, ol {
+    font-size: 17px;
+    text-align: left;
+    line-height:30px;
+}
+
+ol {
+    margin-left: 30px;
+}
